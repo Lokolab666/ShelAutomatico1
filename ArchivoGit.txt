@@ -1,0 +1,5 @@
+Este archivo se va a subir al git de dos formas
+1. Comando por comando
+2. Automatización por shell
+
+Vamos!!!
